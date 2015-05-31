@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+	background: #272822;
+	color: white;
+}
+
+a {
+	color: #862;
+}
+
+.page {
+	margin: 32px;
+}
+
+.poetry {
+	font-size: 20px;
+}
+
+.poetry-container {
+	padding: 6px;
+}
